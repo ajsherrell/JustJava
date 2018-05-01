@@ -8,4 +8,13 @@
         <item name="colorAccent">#A1887F</item>
     </style>
 
+    <!-- Header Text Style -->
+    <style name="headerTextStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:layout_height">48dp</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+
 </resources>
